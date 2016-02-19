@@ -1,0 +1,79 @@
+body{
+	font-family: 'Orbitron', sans-serif;
+	background-image: url(../img/pc2.jpg ) ;
+	border-radius: 50px;
+	background-attachment: fixed
+}
+header img{
+	border-radius: 50%;
+}
+
+h1{
+	color: #ffffff;	
+}
+
+h4{
+	color: #ffffff;
+}
+
+header{
+	background-color: #4961fe;
+	border-radius: 20px;
+	box-shadow: 0px 0px 20px;
+	
+}
+	
+
+#contenido{
+	
+	text-align: center;
+}
+
+nav ul li{
+	display: inline-block;
+	margin-right: 20px;
+	color: #ffffff;
+	font-weight: bold;
+	cursor: pointer;
+	
+
+}
+
+#texto{
+	width: 800px;
+	height: 300px;
+	margin: auto; 
+	border-radius: 20px;
+	background-color: #4961FE;
+	box-shadow: 0px 0px 20px;
+}
+
+#texto img{
+		border-radius:50%;
+	}
+	
+#texto p{
+		color:#ffffff;
+	}
+
+footer{
+	width: 800px;
+	height: 30px;
+	margin: auto; 
+	margin-top: 10px;
+	background-color: #4961FE;
+	box-shadow: 0px 0px 20px;
+	text-align: center;
+	
+
+}
+@media screen and (min-width: 480px){
+	
+}
+
+@media screen and (min-width: 767px){
+	
+}
+@media screen and (min-width: 950px){
+	
+}
